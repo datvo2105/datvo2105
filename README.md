@@ -1,6 +1,6 @@
 ## Web Devloper
 
-✉️ Contact me at [contact@gmail.com](mailto:contact@gmail.com)
+✉️ Contact me at [contact.vgdat@gmail.com](mailto:contact.vgdat@gmail.com)
 
 ### Skills
 
