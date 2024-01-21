@@ -1,4 +1,4 @@
-## Web Devloper
+## JS Developer
 
 ✉️ : [contact.vgdat@gmail.com](mailto:contact.vgdat@gmail.com)
 
