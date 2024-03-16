@@ -57,7 +57,7 @@
 
 ### Badges
 
-<a href="https://github.com/datvo2105" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvo2105&langs_count=3&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=%Languages" alt="Languages" /></a>
-<a href="http://www.github.com/datvo2105"><img src="https://github-readme-stats.vercel.app/api?username=datvo2105&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="datvo2105's GitHub stats" /></a>
+<a href="https://github.com/vogiadat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datvo2105&langs_count=3&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=%Languages" alt="Languages" /></a>
+<a href="http://www.github.com/vogiadat"><img src="https://github-readme-stats.vercel.app/api?username=datvo2105&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="datvo2105's GitHub stats" /></a>
 
-<a href="http://www.github.com/datvo2105"><img src="https://github-readme-streak-stats.herokuapp.com/?user=datvo2105&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vogiadat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=datvo2105&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
