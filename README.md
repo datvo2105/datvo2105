@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/software_developer-icon?style=for-the-badge&logo=codeium&logoColor=%23fff&color=%23000000) ![](https://komarev.com/ghpvc/?username=vogiadat)
 <a href="#" target="_blank">
-  <img src="gif/nerd.gif"  height="500" width="1200" alt="code-image" alt="rolledev-official" />
+  <img src="gif/nerd.gif"  height="200" width="1200" alt="code-image" alt="rolledev-official" />
 </a>
 
 ## 🌐️ Contact me 
